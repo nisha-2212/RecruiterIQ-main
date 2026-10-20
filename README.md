@@ -5,15 +5,7 @@ See how recruiters **actually** evaluate your LinkedIn profile. Upload a LinkedI
 **Live app:** [recruiter-iq-wine.vercel.app](https://recruiter-iq-wine.vercel.app)  
 **Live demo (no upload):** `/analyze/demo`
 
-## Author
 
-**[Sachin Parmar](https://www.linkedin.com/in/sachinparmar7123)** — Software Engineer
-
-| | |
-|---|---|
-| LinkedIn | [linkedin.com/in/sachinparmar7123](https://www.linkedin.com/in/nishathakor) |
-| GitHub | [github.com/Sachin7123](https://github.com/Nisha-2212) |
-| Source | [Recruiter-IQ-LinkedIn](https://github.com/Nisha=2212/Recruiter-IQ-LinkedIn) |
 
 Built RecruiterIQ to show how hiring teams actually read LinkedIn profiles — deterministic scoring plus AI recruiter commentary.
 
