@@ -11,9 +11,9 @@ See how recruiters **actually** evaluate your LinkedIn profile. Upload a LinkedI
 
 | | |
 |---|---|
-| LinkedIn | [linkedin.com/in/sachinparmar7123](https://www.linkedin.com/in/sachinparmar7123) |
-| GitHub | [github.com/Sachin7123](https://github.com/Sachin7123) |
-| Source | [Recruiter-IQ-LinkedIn](https://github.com/Sachin7123/Recruiter-IQ-LinkedIn) |
+| LinkedIn | [linkedin.com/in/sachinparmar7123](https://www.linkedin.com/in/nishathakor) |
+| GitHub | [github.com/Sachin7123](https://github.com/Nisha-2212) |
+| Source | [Recruiter-IQ-LinkedIn](https://github.com/Nisha=2212/Recruiter-IQ-LinkedIn) |
 
 Built RecruiterIQ to show how hiring teams actually read LinkedIn profiles — deterministic scoring plus AI recruiter commentary.
 
